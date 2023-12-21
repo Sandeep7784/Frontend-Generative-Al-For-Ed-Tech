@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { mdiAccountOutline,  mdiFingerprint, mdiEmailOutline, mdiKey } from '@mdi/js';
+import { mdiEmailOutline, mdiKey } from '@mdi/js';
 import logo from '../chatbot.png';
 
 const LogIn = () => {
